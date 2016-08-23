@@ -1,0 +1,49 @@
+body {
+    background-color: #eef;
+}
+
+a {
+    color: #666;
+}
+
+a:visited {
+    color: #666;
+}
+
+header {
+    margin-top: 200px;
+    font-family: trebuchet ms;
+    color: #777;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 10px;
+}
+
+#form {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+
+#button {
+    position: center;
+    margin-left: 43%;
+    width: 258px;
+    height: 50px;
+    background-color: #ff4d4d;
+    border-radius: 5px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+}
+
+#button:hover {
+    cursor: pointer;
+}
+
+footer {
+    margin-left: 47%;
+    font-family: Trebuchet MS;
+    font-size: 10px;
+    color: #666;
+}
